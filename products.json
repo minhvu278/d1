@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Jetbrains Full 17 Apps",
+    "category": "IT",
+    "description": "Chi dung o VN, doi thiet bi thoai mai, free Plugin paid: Laravel Idea, jetClient...",
+    "price": "98,000",
+    "image": "./src/img/jetbrains.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Navicat Premium + Cloud",
+    "category": "IT",
+    "description": "Navicat Premium, Cloud Pro Plan, Data Modeler, Charts Creator, On-Prem Server,...",
+    "price": "74,000",
+    "image": "./src/img/navicat.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dbeaver Enterprise / Cloud",
+    "category": "IT",
+    "description": "Team collaboration, data management, and role-based access control...",
+    "price": "74,000",
+    "image": "./src/img/dbeaver.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tableau Desktop + Prep",
+    "category": "IT",
+    "description": "Active 2 thiet bi, xai dc cho Tableau Prep Builder, free eLearning",
+    "price": "98,000",
+    "image": "./src/img/tableau.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tryhackme PREMIUM",
+    "category": "IT",
+    "description": "Gia han hang thang",
+    "price": "98,000",
+    "image": "./src/img/tryhackme.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Datacamp Premium",
+    "category": "IT",
+    "description": "1 slot goi Teams, full courses, day du tinh nang bao gom chung chi",
+    "price": "98,000",
+    "image": "./src/img/datacamp.jpg"
+  },
+  {
+    "id": 7,
+    "name": "SmartGit",
+    "category": "IT",
+    "description": "",
+    "price": "98,000",
+    "image": "./src/img/smartgit.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Codecademy",
+    "category": "Học tập Giáo dục",
+    "description": "Giam gia goi Pro 16$/thang con 10$/thang goi annual",
+    "price": "15,000",
+    "image": "./src/img/codecademy.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Proxy dan cu",
+    "category": "IT",
+    "description": "98k/ GB, proxy cho mua dut cap",
+    "price": "98,000",
+    "image": "./src/img/proxy.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Tinder PLUS",
+    "category": "GIẢI TRÍ",
+    "description": "Luot thich + quay lai vo han, Ho Chieu, An quang cao, Dung che do An Danh",
+    "price": "37,000",
+    "image": "./src/img/tinder.jpg"
+  },
+  {
+    "id": 11,
+    "name": "NETFLIX 🎬",
+    "category": "GIẢI TRÍ",
+    "description": "Ultra HD 4K, gia han hang thang, on dinh",
+    "price": "15,000",
+    "image": "./src/img/netflix.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Spotify PREMIUM🎶",
+    "category": "GIẢI TRÍ",
+    "description": "Khong doi quoc gia, cac bac tu gia han 29,5k/thang thay vi 59k/thang",
+    "price": "17,500",
+    "image": "./src/img/spotify.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Apple Music + AppleTV+",
+    "category": "GIẢI TRÍ",
+    "description": "Cac bac tu gia han 35k/thang thay vi 65k/thang, nhac chat luong Lossless",
+    "price": "15,000",
+    "image": "./src/img/applemusic.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Pornhub Premium",
+    "category": "GIẢI TRÍ",
+    "description": "Chat luong 4K, khong can VPN, noi dung doc quyen",
+    "price": "49,000",
+    "image": "./src/img/pornhub.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Duolingo SUPER",
+    "category": "Học tập Giáo dục",
+    "description": "Khong quang cao, vo han trai tim, bxh, che do luyen tap, legendary mode,...",
+    "price": "7,500",
+    "image": "./src/img/duolingo.jpg"
+  },
+  {
+    "id": 16,
+    "name": "LingoKids PLUS",
+    "category": "Học tập Giáo dục",
+    "description": "App hoc tieng anh qua game cho be duoi 10 tuoi cuc hay:- Noi dung giao duc da duoc phe duyet tu Nha xuat ban Dai hoc Oxford- 4 profile: ca nhan hoa lo trinh hoc cho tung tre- Hoc ngoai tuyen khong can mang- Theo doi tien trinh hoc thong qua Trung tam tien trinh- Truy cap vao tat ca noi dung cua Lingokids...",
+    "price": "15,000",
+    "image": "./src/img/lingokids.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Grammarly Premium",
+    "category": "Học tập Giáo dục",
+    "description": "Kiem tra ngu phap, 5 thiet bi cung luc, gia han hang thang",
+    "price": "49,000",
+    "image": "./src/img/grammarly.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Shub Classroom",
+    "category": "Học tập Giáo dục",
+    "description": "Huong dan chi tiet cac buoc trong qua trinh viet luan van, su dung tai lieu tham khao,...",
+    "price": "49,000",
+    "image": "./src/img/shubclassroom.jpg"
+  }
+]

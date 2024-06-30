@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang Landing Sản Phẩm</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+    <div class="header-content">
+        <div class="logo">
+            <img src="logo.png" alt="Logo">
+        </div>
+        <div class="search-container">
+            <div class="search-bar">
+                <input type="text" id="searchInput" oninput="filterProducts()" placeholder="Tìm kiếm sản phẩm...">
+                <button>Tìm kiếm</button>
+            </div>
+            <div class="filters">
+                <select id="categoryFilter" onchange="filterProducts()">
+                    <option value="all">Tất cả</option>
+                    <option value="IT">IT</option>
+                    <option value="Học tập Giáo dục">Học tập Giáo dục</option>
+                    <option value="GIẢI TRÍ">GIẢI TRÍ</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <nav class="navbar">
+        <ul>
+            <li><a href="#">Trang chủ</a></li>
+            <li><a href="#">Giới thiệu</a></li>
+            <li><a href="#">Học tập</a></li>
+            <li><a href="#">Giải trí</a></li>
+            <li><a href="#">Đồ họa</a></li>
+            <li><a href="#">Liên hệ</a></li>
+        </ul>
+    </nav>
+</header>
+<main>
+    <section id="productList" class="product-list"></section>
+</main>
+<div id="productModal" class="modal">
+    <div class="modal-content">
+        <span class="close" onclick="closeModal()">&times;</span>
+        <div id="productDetails"></div>
+    </div>
+</div>
+<footer>
+    <p>&copy; 2024 Trang Landing Sản Phẩm. Tất cả các quyền được bảo lưu.</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
