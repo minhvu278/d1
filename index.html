@@ -4,13 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trang Landing Sản Phẩm</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
+    <!-- Swiper CSS -->
+<!--    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">-->
+<!--    &lt;!&ndash; Swiper JS &ndash;&gt;-->
+<!--    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>-->
+
+
 </head>
 <body>
 <header>
     <div class="header-content">
         <div class="logo">
-            <img src="logo.png" alt="Logo">
+            <img src="./src/img/chatgpt-7977357_1280.webp" alt="Logo">
         </div>
         <div class="search-container">
             <div class="search-bar">
@@ -21,25 +28,43 @@
                 <select id="categoryFilter" onchange="filterProducts()">
                     <option value="all">Tất cả</option>
                     <option value="IT">IT</option>
-                    <option value="Học tập Giáo dục">Học tập Giáo dục</option>
-                    <option value="GIẢI TRÍ">GIẢI TRÍ</option>
+                    <option value="Study Education">Học tập Giáo dục</option>
+                    <option value="ENTERTAINMENT">GIẢI TRÍ</option>
+                    <option value="Microsoft">Microsoft</option>
+                    <option value="Storage">Storage</option>
+                    <option value="Design Creative">Design Creative</option>
+                    <option value="AI">AI</option>
+                    <option value="Job">Job</option>
+                    <option value="Kaspersky">Kaspersky</option>
+                    <option value="Other">Other</option>
                 </select>
             </div>
         </div>
     </div>
-    <nav class="navbar">
-        <ul>
-            <li><a href="#">Trang chủ</a></li>
-            <li><a href="#">Giới thiệu</a></li>
-            <li><a href="#">Học tập</a></li>
-            <li><a href="#">Giải trí</a></li>
-            <li><a href="#">Đồ họa</a></li>
-            <li><a href="#">Liên hệ</a></li>
-        </ul>
-    </nav>
 </header>
 <main>
-    <section id="productList" class="product-list"></section>
+<!--    <section id="hotProductSliderSection">-->
+<!--        <div class="swiper-container">-->
+<!--            <div class="swiper-wrapper" id="hotProductSliderWrapper">-->
+<!--                &lt;!&ndash; Slides will be inserted here by JavaScript &ndash;&gt;-->
+<!--            </div>-->
+<!--            &lt;!&ndash; Add Pagination &ndash;&gt;-->
+<!--            <div class="swiper-pagination"></div>-->
+<!--            &lt;!&ndash; Add Navigation &ndash;&gt;-->
+<!--            <div class="swiper-button-next"></div>-->
+<!--            <div class="swiper-button-prev"></div>-->
+<!--        </div>-->
+<!--    </section>-->
+    <section id="bestsellerSection">
+        <h1>Sản phẩm bán chạy trong tháng</h1>
+        <div id="bestsellerProductList" class="product-list"></div>
+        <button id="bestsellerProductListLoadMoreButton" onclick="loadMoreProducts('bestsellerProductList')">Load More</button>
+    </section>
+    <section id="hotSection">
+        <h2>Sản phẩm hot</h2>
+        <div id="hotProductList" class="product-list"></div>
+        <button id="hotProductListLoadMoreButton" onclick="loadMoreProducts('hotProductList')">Load More</button>
+    </section>
 </main>
 <div id="productModal" class="modal">
     <div class="modal-content">
