@@ -8,7 +8,7 @@
       "description": "Chỉ dùng ở VN, đổi thiết bị thoải mái, free Plugin paid*: Laravel Idea, jetClient...",
       "bestseller": true,
       "hot": true,
-      "image": "./src/img/jetbrains.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Navicat Premium + Cloud",
@@ -18,7 +18,7 @@
       "description": "Navicat Premium, Cloud Pro Plan, Data Modeler, Charts Creator, On-Prem Server,...",
       "bestseller": true,
       "hot": true,
-      "image": "./src/img/navicat.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Dbeaver Enterprise / Cloud",
@@ -28,7 +28,7 @@
       "description": "Team collaboration, data management, and role-based access control...",
       "bestseller": true,
       "hot": true,
-      "image": "./src/img/dbeaver.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Tableau Desktop + Prep",
@@ -38,7 +38,7 @@
       "description": "Active 2 thiết bị, xài dc cho Tableau Prep Builder, free eLearning",
       "bestseller": true,
       "hot": true,
-      "image": "./src/img/tableau.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "LinkedIn Premium Business",
@@ -48,7 +48,7 @@
       "description": "Nâng cấp gói trên tài khoản cá nhân, extra 2 months for friend",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/linkedin.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Tryhackme PREMIUM",
@@ -58,7 +58,7 @@
       "description": "Gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/thm.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Datacamp Premium",
@@ -68,7 +68,7 @@
       "description": "1 slot gói Teams, full courses, đầy đủ tính năng bao gồm chứng chỉ",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/datacamp.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "SmartGit",
@@ -78,7 +78,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/smart-git.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Codecademy",
@@ -88,7 +88,7 @@
       "description": "Giảm giá gói Pro 16$/tháng còn 10$/tháng gói annual",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/code-cademy.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     },
     {
       "name": "Proxy dân cư",
@@ -98,7 +98,7 @@
       "description": "99k/ GB, proxy cho mùa đứt cáp",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/proxy.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/05/Elsa-speak.png"
     }
   ],
   "ENTERTAINMENT": [
@@ -110,7 +110,7 @@
       "description": "Lượt thích + quay lại vô hạn, Hộ Chiếu, Ẩn quảng cáo, Dùng chế độ Ẩn Danh",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/tinder.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/04/chatgpt-7977357_1280.webp"
     },
     {
       "name": "NETFLIX 🎬",
@@ -150,7 +150,7 @@
       "description": "Không đổi quốc gia, các bác tự gia hạn 29,5k/tháng thay vì 59k/tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/spotify.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Spotify PREMIUM🎶",
@@ -160,7 +160,7 @@
       "description": "1 năm Premium không lỗi, nhạc chất lượng cao 320kbps, Podcast, nghe Offline...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/spotify.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Youtube PREMIUM",
@@ -170,7 +170,7 @@
       "description": "Không quảng cáo, PiP, Youtube Music, không giới hạn thiết bị",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/youtube.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/youtube-premium.png"
     },
     {
       "name": "Youtube PREMIUM",
@@ -180,7 +180,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/youtube.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/youtube-premium.png"
     },
     {
       "name": "FPT PLAY SVIP HBO",
@@ -190,7 +190,7 @@
       "description": "5 thiết bị cùng lúc, gồm gói Max + Sport, VOD không quảng cáo, HBO GO",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/fpt.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Apple Music + AppleTV+",
@@ -200,7 +200,7 @@
       "description": "Các bác tự gia hạn 35k/tháng thay vì 65k/tháng, nhạc chất lượng Lossless",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/apple-music.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Iqiyi Premium",
@@ -210,7 +210,7 @@
       "description": "Chất lượng 4K, 4 thiết bị cùng lúc",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/iqiyi.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Pornhub Premium",
@@ -220,7 +220,7 @@
       "description": "Chất lượng 4K, không cần VPN, nội dung độc quyền",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/pornhub.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/04/chatgpt-7977357_1280.webp"
     }
   ],
   "Study Education": [
@@ -232,7 +232,7 @@
       "description": "Full courses*, học có chứng chỉ, link cert được vào Linkedin, ổn định",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/coursera.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Quizlet PLUS",
@@ -242,7 +242,7 @@
       "description": "Không quảng cáo, học ko giới hạn, ghi chú, tạo flashcard, quét văn bản,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quizlet.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-3.png"
     },
     {
       "name": "Quizlet PLUS",
@@ -252,7 +252,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quizlet.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-3.png"
     },
     {
       "name": "Elsa Speak PRO",
@@ -262,7 +262,7 @@
       "description": "Nâng cấp ELSA PRO gói 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/elsa.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-2.png"
     },
     {
       "name": "Elsa Speak PREMIUM",
@@ -272,7 +272,7 @@
       "description": "Nâng cấp ELSA PREMIUM (Elsa Pro + Elsa AI + Elsa Speech Analyzer)",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/elsa.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/11/IMG_4934-1.jpeg"
     },
     {
       "name": "Duolingo SUPER",
@@ -282,7 +282,7 @@
       "description": "Không quảng cáo, vô hạn trái tim, bxh, chế độ luyện tập, legendary mode,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/duolingo.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Duolingo SUPER",
@@ -292,7 +292,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/duolingo.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Quizizz SUPER",
@@ -302,7 +302,7 @@
       "description": "Cung cấp công cụ và tài nguyên để cải thiện trải nghiệm giảng dạy và học tập Tăng cường sự tương tác và động lực học tập của học sinh.",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quiziz.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/05/2ebb1a434d9ea5a255b2a3fcc83e681f.png_800x800Q100-1.png"
     },
     {
       "name": "Quizizz SUPER",
@@ -312,7 +312,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quiziz.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/05/2ebb1a434d9ea5a255b2a3fcc83e681f.png_800x800Q100-1.png"
     },
     {
       "name": "LingoKids PLUS",
@@ -322,7 +322,7 @@
       "description": "App học tiếng anh qua game cho bé dưới 10 tuổi cực hay: - Nội dung giáo dục đã được phê duyệt từ Nhà xuất bản Đại học Oxford - 4 profile: cá nhân hoá lộ trình học cho từng trẻ - Học ngoại tuyến không cần mạng - Theo dõi tiến trình học thông qua Trung tâm tiến trình - Truy cập vào tất cả nội dung của Lingokids ...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "LingoKids PLUS",
@@ -332,7 +332,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "LingoKids PLUS",
@@ -342,7 +342,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "LingoKids PLUS",
@@ -352,7 +352,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "LingoKids PLUS",
@@ -362,7 +362,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "Quillbot PREMIUM",
@@ -372,7 +372,7 @@
       "description": "Kiểm tra ngữ pháp, viết lại đoạn văn bản, check đạo văn, tạo trích dẫn,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quillbot.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Quillbot PREMIUM",
@@ -382,7 +382,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/quillbot.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "4English PRO",
@@ -392,7 +392,7 @@
       "description": "Tự học tiếng Anh hiệu quả: từ điển đa dạng, video có sub, luyện nghe,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/4english.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/08/freepik.png"
     },
     {
       "name": "Grammarly Premium",
@@ -402,7 +402,7 @@
       "description": "Kiểm tra ngữ pháp, 5 thiết bị cùng lúc, gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/grammarly.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/mua-office-365-business-600x684-1.jpg"
     },
     {
       "name": "Ejoy English PRO PLUS",
@@ -412,7 +412,7 @@
       "description": "Truy cập không giới hạn vào tất cả nội dung Premium. Hỗ trợ dịch thuật realtime trên video, pdf… Công cụ hỗ trợ học tiếng Anh tốt hơn như từ điển, flashcards, tracking progress...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/ejoy.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/office-20211-1-510x510-1.png"
     },
     {
       "name": "Ejoy English PRO PLUS",
@@ -422,7 +422,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/ejoy.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/office-20211-1-510x510-1.png"
     },
     {
       "name": "Ejoy English PRO PLUS",
@@ -432,7 +432,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/ejoy.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/office-20211-1-510x510-1.png"
     },
     {
       "name": "LingQ PREMIUM",
@@ -442,7 +442,7 @@
       "description": "App học ngoại ngữ Tiếng Anh, Pháp, Trung Quốc, Tây Ban Nha, Đức, Ý, Nga,... qua podcast, sách nói, bài phỏng vấn",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingq.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "LingQ PREMIUM",
@@ -452,7 +452,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingq.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "LingQ PREMIUM",
@@ -462,7 +462,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingq.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Baamboozle",
@@ -472,7 +472,7 @@
       "description": "Học từ vựng qua trò chơi, phù hợp cho giáo viên Tiểu học - Trung học",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/baamboozle.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/Office-Business-2019-For-Mac-600x600-1.png"
     },
     {
       "name": "Migii HSK",
@@ -482,7 +482,7 @@
       "description": "Luyện thi HSK 1-6 ( Tiếng Trung )",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/migii.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/buusu.png"
     },
     {
       "name": "Cantoneseclass101",
@@ -492,7 +492,7 @@
       "description": "Gói PREMIUM / PREMIUM PLUS, học tiếng Quảng Đông (Trung Quốc)",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/cantonese.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/ejoy-English.png"
     },
     {
       "name": "Hanzii Premium",
@@ -502,7 +502,7 @@
       "description": "Ai học tiếng Trung đều cần, gói cao cấp vĩnh viễn",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/hanzii.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/turnitin.png"
     },
     {
       "name": "Wordwall Standard/ Pro",
@@ -512,7 +512,7 @@
       "description": "Giúp giáo viên thiết kế các dạng bài tập, trò chơi thú vị phục vụ quá trình giảng dạy",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/wordwall.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/06/zoom-pro.png"
     },
     {
       "name": "Kahoot+ Start For Teachers",
@@ -522,7 +522,7 @@
       "description": "Up to 100 participants per session",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kahoot.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/youtube-premium.png"
     }
   ],
   "Microsoft": [
@@ -534,7 +534,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/key-win.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Key Win 10 / 11 Pro",
@@ -544,7 +544,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/key-win.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Key Win 10 / 11 Pro",
@@ -554,7 +554,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/key-win.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Key Win 7/8, Server",
@@ -564,7 +564,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/key-win.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/3-1.png"
     },
     {
       "name": "Office 365 Family",
@@ -574,13 +574,12 @@
       "description": "1 TB Onedrive riêng tư, active 5 thiết bị cùng lúc ( Windows/Mac/Ipad,...)",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/office-365.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Office Pro Plus 2016",
       "price": 239.0,
-      "duration": "",
-      "image": "./src/img/office-365.jpg"
+      "duration": ""
     }
   ],
   "Storage": [
@@ -592,7 +591,7 @@
       "description": "512 GB, thời hạn 3 năm, bảo hành thời hạn sử dụng 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/google-one.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Google One - Google Drive Gmail - Google Photo",
@@ -602,7 +601,7 @@
       "description": "1 TB, thời hạn 3 năm, bảo hành thời hạn sử dụng 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/google-one.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Google One - Google Drive Gmail - Google Photo",
@@ -612,7 +611,7 @@
       "description": "2 TB, add dc thêm 4 slot, thời hạn 3 năm, bảo hành thời hạn sử dụng 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/google-one.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Google One - Google Drive Gmail - Google Photo",
@@ -622,7 +621,7 @@
       "description": "5 TB, add dc thêm 4 slot, thời hạn 6 tháng, bảo hành thời hạn sử dụng 6 tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/google-one.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Onedrive - Outlook",
@@ -632,7 +631,7 @@
       "description": "1 TB bộ nhớ riêng tư + Office 365 bản quyền 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/outlook.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     }
   ],
   "Design Creative": [
@@ -644,7 +643,7 @@
       "description": "80GB Cloud, 250 credit/tháng generate fill, active 2 thiết bị, ổn định không lỗi",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-3.png"
     },
     {
       "name": "Adobe All Apps",
@@ -654,7 +653,7 @@
       "description": "1TB Cloud, 1000 credit/tháng generate fill, active 2 thiết bị, gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-3.png"
     },
     {
       "name": "Adobe All Apps",
@@ -664,7 +663,7 @@
       "description": "1TB Cloud, 1000 credit/thánggenerate filI, active 2 thiết bị, gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-3.png"
     },
     {
       "name": "Canva Pro",
@@ -674,7 +673,7 @@
       "description": "1 slot Canva Pro đội nhóm, role Member",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/canva.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-2.png"
     },
     {
       "name": "Canva Pro",
@@ -684,7 +683,7 @@
       "description": "Role Brand Designer, full option thêm upload font chữ, bộ thương hiệu,..",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/canva.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-2.png"
     },
     {
       "name": "CapCUT PRO",
@@ -694,7 +693,7 @@
       "description": "Pay sạch không lỗi, có hoá đơn, max 10 thiết bị cùng lúc (PC, Mobile, Web,...)",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/capcut-pro.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/11/IMG_4934-1.jpeg"
     },
     {
       "name": "Picsart Gold",
@@ -704,7 +703,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/picsart-gold.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Autodesk All Apps",
@@ -714,7 +713,7 @@
       "description": "AutoCAD, 3D Max, Revit, Maya,... active 3 thiết bị",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/autodesk.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/05/2ebb1a434d9ea5a255b2a3fcc83e681f.png_800x800Q100-1.png"
     },
     {
       "name": "Autodesk All Apps",
@@ -724,7 +723,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/autodesk.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/05/2ebb1a434d9ea5a255b2a3fcc83e681f.png_800x800Q100-1.png"
     },
     {
       "name": "Altium Designer PRO 365",
@@ -734,7 +733,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/altium.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/04/tai-canva-0.jpg"
     },
     {
       "name": "Vsco PRO",
@@ -744,7 +743,7 @@
       "description": "App chỉnh ảnh",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/vsco.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Mail edu",
@@ -754,7 +753,7 @@
       "description": "Office 365 A1 for student, bảo hành 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/email-edu.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "TrueCaller Premium",
@@ -764,7 +763,7 @@
       "description": "Chống làm phiền cuộc gọi rác, lừa đảo",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/truecaller.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/08/freepik.png"
     },
     {
       "name": "Buff Tiktok/ Insta/ Facebook",
@@ -774,7 +773,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/buff.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/mua-office-365-business-600x684-1.jpg"
     },
     {
       "name": "Sim Vinaphone mới FREE SHIP/Esim Nghe gọi bth k cần nạp FREE đăng kí chính chủ",
@@ -784,7 +783,17 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/esim.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/office-20211-1-510x510-1.png"
+    },
+    {
+      "name": "Tặng 1 slot Duolingo Super 1 tháng ++ / Canva Pro Edu cho các bác đã sử dụng các dịch vụ, sản phẩm của shop",
+      "price": -1.0,
+      "duration": "Không có",
+      "Form": "Không có",
+      "description": "",
+      "bestseller": true,
+      "hot": false,
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     }
   ],
   "AI": [
@@ -796,7 +805,7 @@
       "description": "GPT4o, Claude Opus,... pay sạch bảo hành full",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/poe-pro.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/Office-Business-2019-For-Mac-600x600-1.png"
     },
     {
       "name": "Poe PRO",
@@ -806,7 +815,7 @@
       "description": "GPT4o, Claude Opus,... ko bảo hành",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/poe-pro.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/Office-Business-2019-For-Mac-600x600-1.png"
     },
     {
       "name": "Poe PRO",
@@ -816,7 +825,7 @@
       "description": "GPT4o, Claude Opus,... ko bảo hành",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/poe-pro.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/Office-Business-2019-For-Mac-600x600-1.png"
     },
     {
       "name": "ChatGPT PLUS",
@@ -826,7 +835,7 @@
       "description": "GPT 3.5, GPT4, GPT 4o , DALL E, upload file,... pay sạch CH Play có hoá đơn, bh full",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/chatgpt-7977357_1280.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/buusu.png"
     },
     {
       "name": "ChatGPT PLUS",
@@ -836,7 +845,7 @@
       "description": "GPT 3.5, GPT4, GPT 4o , DALL E, upload file,... pay Apple k ban acc, bảo hành full",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/chatgpt-7977357_1280.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/buusu.png"
     },
     {
       "name": "ChatGPT PLUS",
@@ -846,7 +855,7 @@
       "description": "GPT 3.5, GPT4, GPT 4o , DALL E, upload file,... pay Apple k ban acc, không bảo hành",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/chatgpt-7977357_1280.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/buusu.png"
     },
     {
       "name": "Claude PRO",
@@ -856,7 +865,7 @@
       "description": "Claude 3 Opus and Haiku, create Profject, Sonet 3.5,...không bảo hành",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/claude.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/ejoy-English.png"
     },
     {
       "name": "Claude PRO",
@@ -866,7 +875,7 @@
       "description": "Claude 3 Opus and Haiku, create Profject, Sonet 3.5,... bảo hành full",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/claude.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/ejoy-English.png"
     },
     {
       "name": "You.com PRO AI",
@@ -876,7 +885,7 @@
       "description": "GPT - 4, Claude Opus - Sonet - Haiku, Gemini 1.0 - 1,5 Pro, Zephyr ( Unscensor )",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/you.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/turnitin.png"
     },
     {
       "name": "Perplexity PRO",
@@ -886,7 +895,7 @@
       "description": "GPT-4, Claude-3, Sonar Large (LLaMa 3),... upload file, DALL E,..",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/perplexity.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/06/zoom-pro.png"
     },
     {
       "name": "Copy.ai PRO",
@@ -896,7 +905,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/copy-ai.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/youtube-premium.png"
     },
     {
       "name": "Pipio.ai",
@@ -906,7 +915,7 @@
       "description": "Text to voice, bảo hành 2 tuần",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/pipio.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Leonardo.ai",
@@ -916,7 +925,7 @@
       "description": "Gói Apprentice 12$",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/leonardo.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Leonardo.ai",
@@ -926,7 +935,7 @@
       "description": "Gói Artisan Unlimited 30$",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/leonardo.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/09/2-1.png"
     },
     {
       "name": "Sider.ai",
@@ -936,7 +945,7 @@
       "description": "Gói Basic",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/sider.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/3-1.png"
     },
     {
       "name": "Sider.ai",
@@ -946,7 +955,7 @@
       "description": "Gói Pro",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/sider.webp"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/3-1.png"
     },
     {
       "name": "Notion AI",
@@ -956,7 +965,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/notion-ai.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "D-ID Studio / API",
@@ -966,7 +975,7 @@
       "description": "Tạo video bằng AI, gói LITE, PRO, ADVANCE Studio",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/d-id.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/freepik.jpg"
     },
     {
       "name": "D-ID Studio / API",
@@ -976,7 +985,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/d-id.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/freepik.jpg"
     }
   ],
   "Job": [
@@ -988,7 +997,7 @@
       "description": "100 member, cuộc họp 30 tiếng, 5GB Cloud",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/zoom-pro.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Zoom Pro",
@@ -998,7 +1007,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/zoom-pro.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Miro",
@@ -1008,7 +1017,7 @@
       "description": "Team 10 members, private board, unlimited boards,... ~ gói Starter 8$/month",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/miro.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Miro",
@@ -1018,7 +1027,7 @@
       "description": "Team 100 members, private board, unlimited boards,... bảo hành 2 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/miro.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Edraw Mind / Max",
@@ -1028,7 +1037,7 @@
       "description": "License theo account, 1 thiết bị cùng lúc, update thoải mái, bh 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/edraw.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Edraw Mind + Max",
@@ -1038,7 +1047,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/edraw.jpeg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Mindmeister",
@@ -1048,7 +1057,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/mindmeister.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "Notion Plus",
@@ -1058,7 +1067,7 @@
       "description": "Unlimited blocks for teams, Unlimited file uploads,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/notion-ai.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Notion Plus + AI",
@@ -1068,7 +1077,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/notion-ai.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2019/11/netflix.png"
     },
     {
       "name": "Camscanner Edu",
@@ -1078,7 +1087,7 @@
       "description": "Không quảng cáo, không Watermark, 2GB Cloud",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/camscanner.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "Camscanner Premium",
@@ -1088,7 +1097,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/camscanner.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2023/06/tai-3-site-pmh.png"
     },
     {
       "name": "ExpressVPN",
@@ -1098,7 +1107,7 @@
       "description": "4 thiết bị cùng lúc, Windows/ Mac / Android / iOS,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/express.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "ExpressVPN",
@@ -1108,7 +1117,7 @@
       "description": "8 thiết bị cùng lúc, Windows/ Mac / Android / iOS,...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/express.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "ExpressVPN",
@@ -1118,7 +1127,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/express.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "ExpressVPN",
@@ -1128,7 +1137,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/express.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "Exitlag Quarterly",
@@ -1138,7 +1147,7 @@
       "description": "Giảm ping cho game, đặc biệt game FPS",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/exitlg.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "GETFLIX",
@@ -1148,7 +1157,7 @@
       "description": "SmartDNS và VPN, bỏ chặn và truy cập streaming video và dịch vụ âm nhạc Vd Netflix, Hulu, Amazon Prime Video, HBO, Disnep+,..",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/getflix.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "GETFLIX",
@@ -1158,7 +1167,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/getflix.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "GETFLIX",
@@ -1168,7 +1177,7 @@
       "description": "Bảo hành 5 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/getflix.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2024/03/Ba%CC%89n-sao-cu%CC%89a-Adobe-creative-Cloud-Ba%CC%80i-da%CC%86ng-Instagram-Vuo%CC%82ng-9.png"
     },
     {
       "name": "HMA VPN",
@@ -1178,7 +1187,7 @@
       "description": "5 thiết bị cùng lúc, Windows/ Mac / Android / iOS...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/hma.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "HMA VPN",
@@ -1188,7 +1197,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/hma.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "HMA VPN",
@@ -1198,7 +1207,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/hma.png"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     }
   ],
   "Kaspersky": [
@@ -1210,7 +1219,7 @@
       "description": "Thay thế Kaspersy Antivirus + Internet Sercurity: Chống virus, lừa đảo tống tiền Duyệt mạng an toàn  - Giá đã bao gồm VAT, xuất hoá đơn theo yêu cầu",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Standard",
@@ -1220,7 +1229,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Standard",
@@ -1230,7 +1239,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Standard",
@@ -1240,7 +1249,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Plus",
@@ -1250,7 +1259,7 @@
       "description": "Thay thế Kaspersky Total Sercurity, thêm: Bảo vệ thanh toán trực tuyến Giám sát mạng, chống xâm nhập Tăng tốc máy, VPN không giới hạn  - Giá đã bao gồm VAT, xuất hoá đơn theo yêu cầu",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Plus",
@@ -1260,7 +1269,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Plus",
@@ -1270,7 +1279,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Plus",
@@ -1280,7 +1289,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Premium",
@@ -1290,7 +1299,7 @@
       "description": "Thêm: Dọn dẹp filerác, kiểm tra ổ cứng Kiểm tra rò rỉ dữ liệu cá nhân Tặng kèm Kaspersky Safekid 200k/năm  - Giá đã bao gồm VAT, xuất hoá đơn theo yêu cầu",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Premium",
@@ -1300,7 +1309,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Premium",
@@ -1310,7 +1319,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Premium",
@@ -1320,7 +1329,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Safekid",
@@ -1330,7 +1339,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     },
     {
       "name": "Kaspersky Doanh nghiệp",
@@ -1340,7 +1349,7 @@
       "description": "Kaspersky Endpoint Select/Advance, key + chứng chỉ tên doanh nghiệp",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/kaspersky.jpg"
+      "image": "./src/img/chatgpt-7977357_1280.webp"
     }
   ],
   "Other": [
@@ -1352,7 +1361,7 @@
       "description": "Office 365 A1 for student, bảo hành 1 năm",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/email-edu.jpg"
+      "image": "https://phanmemhay.vn/wp-content/uploads/2022/07/key-office-2021-pro-plus-510x510-1.jpg"
     },
     {
       "name": "TrueCaller Premium",
