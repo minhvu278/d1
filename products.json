@@ -322,7 +322,7 @@
       "description": "App học tiếng anh qua game cho bé dưới 10 tuổi cực hay: - Nội dung giáo dục đã được phê duyệt từ Nhà xuất bản Đại học Oxford - 4 profile: cá nhân hoá lộ trình học cho từng trẻ - Học ngoại tuyến không cần mạng - Theo dõi tiến trình học thông qua Trung tâm tiến trình - Truy cập vào tất cả nội dung của Lingokids ...",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "./src/img/lingokids.webp"
     },
     {
       "name": "LingoKids PLUS",
@@ -332,7 +332,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "./src/img/lingokids.webp"
     },
     {
       "name": "LingoKids PLUS",
@@ -342,7 +342,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "./src/img/lingokids.webp"
     },
     {
       "name": "LingoKids PLUS",
@@ -352,7 +352,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "./src/img/lingokids.webp"
     },
     {
       "name": "LingoKids PLUS",
@@ -362,7 +362,7 @@
       "description": "",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/lingokids.jpg"
+      "image": "./src/img/lingokids.webp"
     },
     {
       "name": "Quillbot PREMIUM",
@@ -644,7 +644,7 @@
       "description": "80GB Cloud, 250 credit/tháng generate fill, active 2 thiết bị, ổn định không lỗi",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "./src/img/adobe-all.jpeg"
     },
     {
       "name": "Adobe All Apps",
@@ -654,7 +654,7 @@
       "description": "1TB Cloud, 1000 credit/tháng generate fill, active 2 thiết bị, gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "./src/img/adobe-all.jpeg"
     },
     {
       "name": "Adobe All Apps",
@@ -664,7 +664,7 @@
       "description": "1TB Cloud, 1000 credit/thánggenerate filI, active 2 thiết bị, gia hạn hàng tháng",
       "bestseller": true,
       "hot": false,
-      "image": "./src/img/adobe.jpeg"
+      "image": "./src/img/adobe-all.jpeg"
     },
     {
       "name": "Canva Pro",

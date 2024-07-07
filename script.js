@@ -52,6 +52,7 @@ function closeModal() {
 }
 
 function filterProducts() {
+    const titleProduct = document.getElementById('titleProduct');
     const categoryFilter = document.getElementById('categoryFilter').value;
     const searchInput = document.getElementById('searchInput').value.toLowerCase();
     const filteredProducts = products.filter(product => {
@@ -59,12 +60,20 @@ function filterProducts() {
         const matchesSearch = product.name.toLowerCase().includes(searchInput);
         return matchesCategory && matchesSearch;
     });
+    titleProduct.innerText="";
     document.getElementById('bestsellerProductList').innerHTML = '';
     document.getElementById('hotProductList').innerHTML = '';
     displayProducts(filteredProducts.filter(product => product.bestseller), 'bestsellerProductList', PRODUCTS_PER_PAGE);
     displayProducts(filteredProducts.filter(product => product.hot), 'hotProductList', PRODUCTS_PER_PAGE);
     checkLoadMoreButton('bestsellerProductList', filteredProducts.filter(product => product.bestseller));
     checkLoadMoreButton('hotProductList', filteredProducts.filter(product => product.hot));
+    if (searchInput) {
+        titleProduct.innerText = "Kết quả tìm kiếm";
+    } else if (categoryFilter == 'all') {
+        titleProduct.innerText = "Sản phẩm bán chạy trong tháng";
+    } else {
+        titleProduct.innerText = `Kết quả tìm kiếm cho ${categoryFilter}`
+    }
 }
 
 function loadMoreProducts(listType) {
@@ -82,53 +91,3 @@ function checkLoadMoreButton(listType, filteredProducts) {
         loadMoreButton.style.display = 'block';
     }
 }
-
-// document.addEventListener('DOMContentLoaded', () => {
-//     fetch('products.json')
-//         .then(response => response.json())
-//         .then(data => {
-//             products = Object.keys(data).flatMap(category =>
-//                 data[category].map(item => ({ ...item, category }))
-//             );
-//             displayProducts(products.filter(product => product.bestseller), 'bestsellerProductList', PRODUCTS_PER_PAGE);
-//             displayProducts(products.filter(product => product.hot), 'hotProductList', PRODUCTS_PER_PAGE);
-//             displayHotProductsInSlider(products.filter(product => product.hot));
-//             checkLoadMoreButton('bestsellerProductList', products.filter(product => product.bestseller));
-//             checkLoadMoreButton('hotProductList', products.filter(product => product.hot));
-//
-//             // Initialize Swiper
-//             new Swiper('.swiper-container', {
-//                 loop: true,
-//                 pagination: {
-//                     el: '.swiper-pagination',
-//                     clickable: true,
-//                 },
-//                 navigation: {
-//                     nextEl: '.swiper-button-next',
-//                     prevEl: '.swiper-button-prev',
-//                 },
-//                 autoplay: {
-//                     delay: 5000,
-//                     disableOnInteraction: false,
-//                 },
-//             });
-//         })
-//         .catch(error => console.error('Error loading products:', error));
-// });
-//
-// function displayHotProductsInSlider(hotProducts) {
-//     const hotProductSliderWrapper = document.getElementById('hotProductSliderWrapper');
-//     hotProducts.forEach(product => {
-//         const slide = document.createElement('div');
-//         slide.className = 'swiper-slide';
-//         slide.innerHTML = `
-//             <img src="${product.image || 'default-image.png'}" alt="${product.name}">
-//             <div class="slide-content">
-//                 <h2>${product.name}</h2>
-//                 <p>${product.price}.000 VND</p>
-//             </div>
-//         `;
-//         hotProductSliderWrapper.appendChild(slide);
-//     });
-// }
-

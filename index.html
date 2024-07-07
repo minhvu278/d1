@@ -6,18 +6,13 @@
     <title>Trang Landing Sản Phẩm</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-    <!-- Swiper CSS -->
-<!--    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">-->
-<!--    &lt;!&ndash; Swiper JS &ndash;&gt;-->
-<!--    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>-->
-
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
 <header>
     <div class="header-content">
         <div class="logo">
-            <img src="./src/img/chatgpt-7977357_1280.webp" alt="Logo">
+            <img src="./src/img/logo.jpeg" alt="Logo">
         </div>
         <div class="search-container">
             <div class="search-bar">
@@ -43,28 +38,22 @@
     </div>
 </header>
 <main>
-<!--    <section id="hotProductSliderSection">-->
-<!--        <div class="swiper-container">-->
-<!--            <div class="swiper-wrapper" id="hotProductSliderWrapper">-->
-<!--                &lt;!&ndash; Slides will be inserted here by JavaScript &ndash;&gt;-->
-<!--            </div>-->
-<!--            &lt;!&ndash; Add Pagination &ndash;&gt;-->
-<!--            <div class="swiper-pagination"></div>-->
-<!--            &lt;!&ndash; Add Navigation &ndash;&gt;-->
-<!--            <div class="swiper-button-next"></div>-->
-<!--            <div class="swiper-button-prev"></div>-->
-<!--        </div>-->
-<!--    </section>-->
     <section id="bestsellerSection">
-        <h1>Sản phẩm bán chạy trong tháng</h1>
+        <h1 id="titleProduct">Sản phẩm bán chạy trong tháng</h1>
         <div id="bestsellerProductList" class="product-list"></div>
-        <button id="bestsellerProductListLoadMoreButton" onclick="loadMoreProducts('bestsellerProductList')">Load More</button>
+        <button id="bestsellerProductListLoadMoreButton" onclick="loadMoreProducts('bestsellerProductList')">Tải thêm</button>
     </section>
     <section id="hotSection">
         <h2>Sản phẩm hot</h2>
         <div id="hotProductList" class="product-list"></div>
-        <button id="hotProductListLoadMoreButton" onclick="loadMoreProducts('hotProductList')">Load More</button>
+        <button id="hotProductListLoadMoreButton" onclick="loadMoreProducts('hotProductList')">Tải thêm</button>
     </section>
+
+    <div id="fixed-contact">
+        <button class="contact-btn zalo-btn">Chat Zalo</button>
+        <button class="contact-btn facebook-btn">Chat Facebook</button>
+        <p class="hotline">Hotline: 0961.576.449</p>
+    </div>
 </main>
 <div id="productModal" class="modal">
     <div class="modal-content">
@@ -72,8 +61,35 @@
         <div id="productDetails"></div>
     </div>
 </div>
-<footer>
-    <p>&copy; 2024 Trang Landing Sản Phẩm. Tất cả các quyền được bảo lưu.</p>
+<footer class="footer">
+    <div class="footer-section">
+        <div class="footer-box">
+            <i class="fas fa-box-open"></i>
+            <h3>Phần mềm bản quyền</h3>
+            <p>100% từ nhà phát triển</p>
+        </div>
+        <div class="footer-box">
+            <i class="fas fa-sync-alt"></i>
+            <h3>Update sản phẩm</h3>
+            <p>Hỗ trợ update trọn đời</p>
+        </div>
+        <div class="footer-box">
+            <i class="fas fa-plus-square"></i>
+            <h3>Thêm mới sản phẩm</h3>
+            <p>Liên tục hàng tháng</p>
+        </div>
+        <div class="footer-box">
+            <i class="fas fa-money-check-alt"></i>
+            <h3>Đặt hàng, thanh toán</h3>
+            <p>Linh hoạt, bảo mật</p>
+        </div>
+    </div>
+
+    <div class="footer-contact">
+        <hr>
+        <p><strong>congcu.org</strong></p>
+        <p>Copyright © 2024 - Thành viên của congcu.org</p>
+    </div>
 </footer>
 <script src="script.js"></script>
 </body>
