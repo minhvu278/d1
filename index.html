@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
+<div id="loadingIndicator">Đang tải...</div>
 <header>
     <div class="header-content">
         <div class="logo">
@@ -16,11 +17,11 @@
         </div>
         <div class="search-container">
             <div class="search-bar">
-                <input type="text" id="searchInput" oninput="filterProducts()" placeholder="Tìm kiếm sản phẩm...">
-                <button>Tìm kiếm</button>
+                <input type="text" id="searchInput" placeholder="Tìm kiếm sản phẩm...">
+                <button id="searchButton">Tìm kiếm</button>
             </div>
             <div class="filters">
-                <select id="categoryFilter" onchange="filterProducts()">
+                <select id="categoryFilter">
                     <option value="all">Tất cả</option>
                     <option value="IT">IT</option>
                     <option value="Study Education">Học tập Giáo dục</option>
@@ -41,14 +42,13 @@
     <section id="bestsellerSection">
         <h1 id="titleProduct">Sản phẩm bán chạy trong tháng</h1>
         <div id="bestsellerProductList" class="product-list"></div>
-        <button id="bestsellerProductListLoadMoreButton" onclick="loadMoreProducts('bestsellerProductList')">Tải thêm</button>
+        <button id="bestsellerProductListLoadMoreButton" class="load-more-button">Tải thêm</button>
     </section>
     <section id="hotSection">
         <h2>Sản phẩm hot</h2>
         <div id="hotProductList" class="product-list"></div>
-        <button id="hotProductListLoadMoreButton" onclick="loadMoreProducts('hotProductList')">Tải thêm</button>
+        <button id="hotProductListLoadMoreButton" class="load-more-button">Tải thêm</button>
     </section>
-
     <div id="fixed-contact">
         <button class="contact-btn zalo-btn">Chat Zalo</button>
         <button class="contact-btn facebook-btn">Chat Facebook</button>
@@ -57,7 +57,7 @@
 </main>
 <div id="productModal" class="modal">
     <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
+        <span class="close" onclick="closeModal()">×</span>
         <div id="productDetails"></div>
     </div>
 </div>
@@ -84,7 +84,6 @@
             <p>Linh hoạt, bảo mật</p>
         </div>
     </div>
-
     <div class="footer-contact">
         <hr>
         <p><strong>congcu.org</strong></p>
